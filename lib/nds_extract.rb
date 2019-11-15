@@ -42,7 +42,6 @@ def movies_with_director_key(name, movies_collection)
   # INPUT:
   # * name: A director's name
   # * movies_collection: An Array of Hashes where each Hash represents a movie
-  directors_database[mov]
   #
   # RETURN:
   #
